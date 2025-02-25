@@ -1,1 +1,1 @@
-# 25022025
+# Vida util del software
